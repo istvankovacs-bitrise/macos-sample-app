@@ -422,7 +422,7 @@
 				DEVELOPMENT_TEAM = 72SA8V3WYL;
 				INFOPLIST_FILE = "macos-sample-app/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bitrise.macos-sample-app";
+				PRODUCT_BUNDLE_IDENTIFIER = com.bitrise.macsampleapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
@@ -440,7 +440,7 @@
 				DEVELOPMENT_TEAM = 72SA8V3WYL;
 				INFOPLIST_FILE = "macos-sample-app/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bitrise.macos-sample-app";
+				PRODUCT_BUNDLE_IDENTIFIER = com.bitrise.macsampleapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
